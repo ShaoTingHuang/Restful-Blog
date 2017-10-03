@@ -1,5 +1,5 @@
 # Restful-Blog
-Building the modern with Django, jQuery, Bootstrap, Restful Framework API
+Building the modern blog with Django, jQuery, Bootstrap, Restful Framework API
 
 Restful-Blog is a project learned from codingEntrepreneurs.com.
 
